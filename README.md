@@ -1,1 +1,1 @@
-https://github.com/GrebeniukOleksandr/kinomonstrBootstrap.io
+https://grebeniukoleksandr.github.io/kinomonstrBootstrap/
