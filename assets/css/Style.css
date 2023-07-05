@@ -76,13 +76,13 @@ a:hover {
 .nav-pills > li.active > a:focus,
 .nav-pills > li.active > a:hover {
   color: #fff;
-  background-color: #346270;
+  background-color: #d58512;
 }
 .nav-pills > li > a {
   color: #fff;
 }
 .nav-pills > li > a:hover {
-  background-color: #346270;
+  background-color: #d58512;
 }
 .navbar-inverse {
   padding: 1%;
@@ -120,7 +120,12 @@ footer a:hover {
   .form-group {
     margin-top: 30px;
   }
-
+  .nav-pills > li.active > a,
+  .nav-pills > li.active > a:focus,
+  .nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color: #d58512;
+  }
   .nav-pills > li {
     float: none;
   }
